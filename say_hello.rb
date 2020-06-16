@@ -2,4 +2,5 @@
 def say_hello (name ="Ruby Programmer!")
   "Hello Ruby Progammer!"
   end
+  say_hello(Ben)
   
